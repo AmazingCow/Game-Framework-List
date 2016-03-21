@@ -23,7 +23,7 @@ Thank you and enjoy :D
 
 ## Info:
 
-#### Organization Page: [https://github.com/AmazingCow-Game-Core](https://github.com/AmazingCow-Game-Core)
+#### Organization Page: [https://github.com/AmazingCow-Game-Framework](https://github.com/AmazingCow-Game-Framework)
 
 #### List of Repos:
 

@@ -1,6 +1,6 @@
-# Game Framework List
+# AmazingCow-Game-Framework List
 
-This is a list of all our **[Game Frameworks](https://github.com/AmazingCow-Game-Framework)**.
+This is a list of all our **[AmazingCow-Game-Framework](https://github.com/AmazingCow-Game-Framework)**.
 
 <!-- ####################################################################### -->
 
@@ -27,7 +27,11 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [MonsterFramework](https://github.com/AmazingCow-Game-Framework/MonsterFramework)
+* [Lore](https://github.com/AmazingCow-Game-Framework/Lore.git)
+* [MonsterFramework](https://github.com/AmazingCow-Game-Framework/MonsterFramework.git)
+
+
+
 
 <!-- ####################################################################### -->
 
@@ -35,9 +39,11 @@ Thank you and enjoy :D
 
 The other AmazingCow organization pages:
 
-* [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
-* [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
 * [AmazingCow-Game-Core](https://github.com/AmazingCow-Game-Core)
-* [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
 * [AmazingCow-Game-Framework](https://github.com/AmazingCow-Game-Framework)
+* [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
 * [AmazingCow-Game](https://github.com/AmazingCow-Game)
+* [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
+* [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
+* [AmazingCow-Imidiar](https://github.com/AmazingCow-Imidiar)
+

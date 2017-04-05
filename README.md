@@ -27,6 +27,10 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
+* [bootstrap_cocos2d](https://github.com/AmazingCow-Game-Framework/bootstrap_cocos2d.git)
+* [bootstrap_game](https://github.com/AmazingCow-Game-Framework/bootstrap_game.git)
+* [bootstrap_splashscreen](https://github.com/AmazingCow-Game-Framework/bootstrap_splashscreen.git)
+* [CCH](https://github.com/AmazingCow-Game-Framework/CCH.git)
 * [Lore](https://github.com/AmazingCow-Game-Framework/Lore.git)
 * [MonsterFramework](https://github.com/AmazingCow-Game-Framework/MonsterFramework.git)
 
